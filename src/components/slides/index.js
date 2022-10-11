@@ -13,13 +13,13 @@ const slides = [
      "/slides/slide5.jpeg",
      "/slides/slide6.png",
      "/slides/slide7.png",
-     "/slides/slide8.png",
+     "/slides/slide8.jpeg",
      "/slides/slide9.png",
-     "/slides/slide10.png",
+     "/slides/slide10.jpeg",
      "/slides/slide11.png",
      "/slides/slide12.png",
      "/slides/slide13.png",
-     "/slides/slide14.png",
+     "/slides/slide14.jpeg",
      "/slides/slide16.png",
      "/slides/slide17.png"
     ];
