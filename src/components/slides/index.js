@@ -6,9 +6,9 @@ import { Colors } from "../../styles/theme";
 
 
 const slides = [
-     "/slides/Slide1.jpeg",
-     "/slides/Slide2.jpeg",
-     "/slides/Slide3.jpeg",
+     "/slides/slide1.jpeg",
+     "/slides/slide2.jpeg",
+     "/slides/slide3.jpeg",
      "/slides/Slide4.jpeg",
      "/slides/slide5.jpeg",
      "/slides/slide6.png",
