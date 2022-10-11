@@ -9,19 +9,19 @@ const slides = [
      "/slides/slide1.jpg",
      "/slides/slide2.jpg",
      "/slides/slide3.jpg",
-     "/slides/Slide4.jpeg",
-     "/slides/slide5.jpeg",
-     "/slides/slide6.png",
-     "/slides/slide7.png",
-     "/slides/slide8.jpeg",
-     "/slides/slide9.png",
-     "/slides/slide10.jpeg",
-     "/slides/slide11.png",
-     "/slides/slide12.png",
-     "/slides/slide13.png",
-     "/slides/slide14.jpeg",
-     "/slides/slide16.png",
-     "/slides/slide17.png"
+     "/slides/Slide4.jpg",
+     "/slides/slide5.jpg",
+     "/slides/slide6.jpg",
+     "/slides/slide7.jpg",
+     "/slides/slide8.jpg",
+     "/slides/slide9.jpg",
+     "/slides/slide10.jpg",
+     "/slides/slide11.jpg",
+     "/slides/slide12.jpg",
+     "/slides/slide13.jpg",
+     "/slides/slide14.jpg",
+     "/slides/slide16.jpg",
+     "/slides/slide17.jpg"
     ];
 
   export default function Promotions() {
